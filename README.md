@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/> <br><br>
+  <img src="https://komarev.com/ghpvc/?username=sammyleths&style=flat-square&color=blue" alt="Views"/>
   <h3>👋 Hi there, I'm Sammy</h3>
 </div>
 
@@ -33,16 +34,36 @@
 
 ---
 
-<h3 align="left">Main tech stack:</h3>
+<h3 align="left">Main Tech Stack:</h3>
 
 <p align="left">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT" />
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="REACT" />
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXTJS" />
+        <img src="https://img.shields.io/badge/gatsby-11081F.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="GATSBY" />
+        <img src="https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=node.js&logoColor=#233056" alt="NODEJS" />
+        <img src="https://img.shields.io/badge/Express-cccccc?style=for-the-badge&logo=express&logoColor=black" alt="EXPRESS" />
+        <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT" />
+        <img src="https://img.shields.io/badge/python-2B5A82.svg?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" />
+        <img src="https://img.shields.io/badge/django-0C4B33.svg?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO" />
+</p>
+
+<h3 align="left">Other Tools:</h3>
+
+<p align="left">
+        <img src="https://img.shields.io/badge/bootstrap-722DF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" />
+        <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
 </p>
 
 ---
+
+<h3 align="left">Stats:</h3>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sammyleths&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyleths&layout=compact&theme=vision-friendly-dark)
 
 
 <!--
