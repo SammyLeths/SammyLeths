@@ -67,11 +67,11 @@
 
 <h3 align="left">Stats:</h3>
 
-![SammyLeths's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SammyLeths&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SammyLeths&theme=dark&background=000000)
 
-![SammyLeths's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLeths&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLeths&layout=compact&theme=vision-friendly-dark)
 
-![SammyLeths's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyLeths&count_private=true&theme=vision-friendly-dark)
+![SammyLeths GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyLeths&count_private=true&theme=vision-friendly-dark)
 
 
 <!--
