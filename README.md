@@ -59,11 +59,19 @@
 
 ---
 
+<h3 align="left">Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SammyLeths)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 <h3 align="left">Stats:</h3>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sammyleths&theme=dark&background=000000)
+![SammyLeths's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SammyLeths&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyleths&layout=compact&theme=vision-friendly-dark)
+![SammyLeths's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyLeths&layout=compact&theme=vision-friendly-dark)
+
+![SammyLeths's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyLeths&count_private=true&theme=vision-friendly-dark)
 
 
 <!--
