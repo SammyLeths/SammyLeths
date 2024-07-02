@@ -19,6 +19,7 @@
     </h4>
 </div>
 
+<!--
 ---
 
 <h3 align="left">Connect With Me:</h3>
@@ -31,6 +32,8 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="sammyleths twitter" />
     </a>
 </p>
+
+-->
 
 ---
 
