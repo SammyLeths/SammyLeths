@@ -6,7 +6,7 @@
 
 ---
 
-<h4 align="center">Fullstack Developer | Front-end Developer | Product Manager </h4>
+<h4 align="center">Fullstack Developer | Front-end Developer </h4>
 
 <div>
     <h4>
