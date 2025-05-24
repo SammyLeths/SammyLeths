@@ -13,11 +13,11 @@
         <img src="https://user-images.githubusercontent.com/64320618/204891250-60a68a71-de75-433b-8582-328e500ef39b.png" alt="Collaborate" width="20"/> I’m looking to collaborate on awesome web development projects. (Front-end preferably)
     </h4>
 </div>
-<div>
+<!-- <div>
     <h4>
         <img src="https://user-images.githubusercontent.com/64320618/204891783-fd2d45b6-9142-4d41-afec-3a8e079db010.png" alt="Reach me" width="22"/> You can reach out to me at sammyleths@gmail.com
     </h4>
-</div>
+</div> -->
 
 <!--
 ---
