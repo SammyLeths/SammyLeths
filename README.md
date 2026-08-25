@@ -10,7 +10,7 @@
 
 <div>
     <h4>
-        <img src="https://user-images.githubusercontent.com/64320618/204891250-60a68a71-de75-433b-8582-328e500ef39b.png" alt="Collaborate" width="20"/> I’m looking to collaborate on awesome web development projects. (Front-end preferably)
+        <img src="https://user-images.githubusercontent.com/64320618/204891250-60a68a71-de75-433b-8582-328e500ef39b.png" alt="Collaborate" width="20"/> I’m looking to collaborate on awesome software engineering projects.
     </h4>
 </div>
 <!-- <div>
