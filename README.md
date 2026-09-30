@@ -6,7 +6,7 @@
 
 ---
 
-<h4 align="center">Fullstack Developer | Front-end Developer </h4>
+<h4 align="center">Software Engineer</h4>
 
 <div>
     <h4>
